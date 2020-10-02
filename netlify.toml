@@ -1,0 +1,5 @@
+[build]
+	functions="lambda"
+#[[redirects]]
+#	from = "/api/*"
+#	to = "/.netlify/functions/:splat"
